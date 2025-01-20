@@ -33,7 +33,7 @@ const Homepage = () => {
               <p className="leading-relaxed">Downloads</p>
             </div>
           </div>
-          <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
+          <div className="p-4 md:w-1/4 sm:w-1/2 w-full"> 
             <div className="border-2 border-gray-800 px-4 py-6 rounded-lg">
               <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="text-yellow-400 w-12 h-12 mb-3 inline-block" viewBox="0 0 24 24">
                 <path d="M17 21v-2a4 4 0 00-4-4H5a4 4 0 00-4 4v2"></path>
