@@ -5,7 +5,7 @@ const Navbar = () => {
   const handleClick = () => {
     setShow(!show);
     // console.log(show);
-    console.log("click");
+    console.log("click"); 
   };
 // buatkan ketika di klik nav nya disembunyikan, ketika di klik lagi muncul pakai let bukan return
 
