@@ -12,4 +12,6 @@ Currently, two official plugins are available:
 - https://youtu.be/K049QecRGnE
 - https://youtu.be/b3pfr6DXBYw
 
-Deploy vite to github pages : https://youtu.be/Bk28snjHr7c
+Deploy vite to github pages : 
+- https://youtu.be/Bk28snjHr7c
+- https://www.vd-developer.online/blog/vite-react-deploy-github
