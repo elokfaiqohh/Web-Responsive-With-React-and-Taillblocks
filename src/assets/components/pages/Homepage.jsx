@@ -17,8 +17,8 @@ const Homepage = () => {
         </div>
       </div>
 
-      <div className="container px-5 py-24 mx-auto">
-        <div className="flex flex-col text-center w-full mb-20">
+      <div className="container px-5 py-24 mx-auto" id="about">
+        <div className="flex flex-col text-center w-full mb-20 mt-6">
           <h1 className="sm:text-3xl text-2xl font-medium title-font mb-4 text-white">Master Cleanse Reliac Heirloom</h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table. Franzen you probably haven't heard of them man bun deep jianbing selfies heirloom prism food truck ugh squid celiac humblebrag.</p>
         </div>
@@ -66,7 +66,7 @@ const Homepage = () => {
         </div>
       </div>
 
-      <div className="container px-5 py-24 mx-auto flex flex-col">
+      <div className="container px-5 py-24 mx-auto flex flex-col" id="profile">
         <div className="lg:w-4/6 mx-auto">
           <div className="rounded-lg h-64 overflow-hidden">
             <img alt="content" className="object-cover object-center h-full w-full" src="https://dummyimage.com/1200x500"/>
@@ -97,8 +97,8 @@ const Homepage = () => {
         </div>
       </div>
 
-      <div className="container px-5 py-24 mx-auto">
-        <div className="flex flex-col text-center w-full mb-20">
+      <div className="container px-5 py-24 mx-auto" id="ourTeam">
+        <div className="flex flex-col text-center w-full mb-20 mt-6">
           <h1 className="text-2xl font-medium title-font mb-4 text-white">OUR TEAM</h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table. Franzen you probably haven't heard of them.</p>
         </div>
@@ -246,8 +246,8 @@ const Homepage = () => {
         </div>
       </div>
 
-      <div className="container px-5 py-24 mx-auto">
-        <div className="flex flex-col text-center w-full mb-12">
+      <div className="container px-5 py-24 mx-auto" id="contact">
+        <div className="flex flex-col text-center w-full mb-12 mt-6">
           <h1 className="sm:text-3xl text-2xl font-medium title-font mb-4 text-white">Contact Us</h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify.</p>
         </div>
